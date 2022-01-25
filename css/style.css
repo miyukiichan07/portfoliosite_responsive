@@ -493,7 +493,7 @@ input[class="button"] {
 
     .about_box {
         position: relative;
-        z-index: 999;
+        z-index: 9999;
     }
     
     .about_title_box {
