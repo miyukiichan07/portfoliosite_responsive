@@ -42,7 +42,7 @@ section img {
 @media only screen and (max-width: 480px) {
     .description {
         width: auto;
-        margin-right: 90px;
+        margin-right: 100px;
     }
 
     section img {
